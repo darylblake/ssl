@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author: Daryl Blake, email daryl@gmail.com
+ * @author: Daryl Blake, email darylblake@gmail.com
  * NOTE: I am a little bit fragile, and if you dont specify all of the $dn arguements i wont work.
  * @todo add handlers for the above.
  * @tutorial This is my first mini project file thing I am sharing with the public.
